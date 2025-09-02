@@ -1,0 +1,7 @@
+requests
+python-dotenv
+jieba
+unidecode
+mysql-connector-python
+openai
+flask
